@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 160" fill="none">
+  <!-- Red TAN Emblem (Left) -->
+  <g transform="translate(4, 4)">
+    <path d="M12 22 C12 12, 20 8, 32 8 L314 8 C312 16, 305 22, 295 22 Z" fill="#E31E24" />
+    <path d="M8 29 L302 29 C300 33, 296 34, 290 34 L8 34 Z" fill="#E31E24" />
+    <path d="M58 34 L21 134 C19 139, 21 142, 27 142 L48 142 L85 34 Z" fill="#E31E24" />
+    <path d="M91 34 L54 142 C51 147, 46 149, 38 149 L16 149 C12 149, 10 146, 12 141 L49 34 L53 34 L17 139 C16 142, 18 144, 22 144 L39 144 C45 144, 48 142, 50 137 L86 34 Z" fill="#E31E24" />
+    <path d="M97 38 L156 38 L154 43 L127 43 L87 143 L62 143 L101 43 L95 43 Z" fill="#E31E24" />
+    <path d="M163 34 L194 143 L161 143 L152 108 L113 108 L115 102 L150 102 L132 95 L155 95 L146 60 L108 143 L93 143 L143 38 Z" fill="#E31E24" />
+    <path d="M111 106 L154 106 C162 106, 168 111, 171 120 L178 143 L149 143 L142 114 L108 114 Z" fill="#E31E24" />
+    <path d="M210 39 L261 39 L232 136 L202 136 L231 44 L208 44 Z" fill="#E31E24" />
+    <path d="M200 141 L236 141 L234 146 L198 146 Z" fill="#E31E24" />
+    <path d="M254 52 L287 116 L310 38 L298 38 L334 4 L350 36 L336 36 L303 136 C300 144, 294 147, 286 147 C279 147, 274 143, 270 135 L239 74 Z" fill="#E31E24" />
+    <path d="M352 42 L341 42 L308 139 C304 148, 297 152, 286 152 L284 148 C293 148, 299 144, 303 135 L336 37 L352 37 Z" fill="#E31E24" />
+  </g>
+  <!-- Bold Black LOGISTIC Wordmark (Right, bottom-aligned) -->
+  <text
+    x="382"
+    y="148"
+    fill="#0A0A0A"
+    font-family="'Plus Jakarta Sans', 'Arial Black', sans-serif"
+    font-weight="800"
+    font-size="86"
+    letter-spacing="2"
+    textLength="428"
+    lengthAdjust="spacingAndGlyphs"
+  >
+    LOGISTIC
+  </text>
+</svg>
