@@ -45,8 +45,8 @@ return [
     'company_profile' => [
         // Web optimised copy (5 MB, SEO metadata). The untouched original is kept in
         // storage/app/company-profile/original/. To update, replace the file below.
-        'path' => 'app/company-profile/tan-logistic-company-profile-2026.pdf', // relative to storage/
-        'filename' => 'TAN-Logistic-Company-Profile-2026.pdf',
+        'path' => 'app/company-profile/company-profile-nov-2026.pdf', // relative to storage/
+        'filename' => 'company-profile-nov-2026.pdf',
         'label' => 'View Company Profile',
         'short_label' => 'Company Profile',
         'meta' => 'PDF · 2026 Edition',
